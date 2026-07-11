@@ -1,0 +1,9 @@
+<svg width="300" height="72" viewBox="0 0 300 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="4" y="4" width="64" height="64" rx="18" fill="#0B1F33"/>
+  <circle cx="32" cy="30" r="15" stroke="#FFFFFF" stroke-width="4"/>
+  <path d="M43 41L54.5 52.5" stroke="#2F8FC5" stroke-width="5.5" stroke-linecap="round"/>
+  <circle cx="32" cy="26" r="4.8" fill="#2F8FC5"/>
+  <path d="M22.5 37C24.3 33 27.5 31 32 31C36.5 31 39.7 33 41.5 37" stroke="#FFFFFF" stroke-width="3.7" stroke-linecap="round"/>
+  <text x="84" y="47" fill="#0B1F33" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="800" letter-spacing="-1.4">MyBe</text>
+  <text x="174" y="47" fill="#2F8FC5" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="800" letter-spacing="-1.4">Six</text>
+</svg>
