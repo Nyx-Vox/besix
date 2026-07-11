@@ -2,19 +2,7 @@
 
 A production-ready Next.js starter for `mybesix.com`.
 
-## Included
 
-- White, responsive public website
-- No gradients and no purple palette
-- People-search form with responsible-use confirmation
-- Information-removal form requiring name, email, and phone
-- Separate random 40–90 second processing experiences
-- Separate people-search and removal-report ZIP downloads
-- Desktop/laptop-only enforcement on both form submissions
-- Mobile warning shown after a mobile user completes a form and clicks search
-- Optional USDT support card and QR code
-- How it works, about, contact, permitted use, privacy, terms, abuse, and removal pages
-- Security headers, robots, sitemap, metadata, and responsive navigation
 
 ## Start locally
 
